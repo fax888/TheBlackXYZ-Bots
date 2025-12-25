@@ -44,7 +44,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 - Yᴏᴜ Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ Bʏ /clone Cᴏᴍᴍᴀɴᴅ 
 - Yᴏᴜ Cᴀɴ Bʀᴏᴀᴅᴄᴀsᴛ Iɴ Yᴏᴜʀ Cʟᴏɴᴇ Bᴏᴛs
 - Aɴᴅ Mɪʟʟɪᴏɴ Oғ Fɪʟᴇs Iɴᴅᴇx Aʟʀᴇᴀᴅʏ Nᴏ Nᴇᴇᴅ Tᴏ Aᴅᴅ Aɴʏ Fɪʟᴇ
-- Cʀᴇᴅɪᴛ Gᴏ ᴛᴏ ᴛʜᴇ TʜᴇBʟᴀᴄᴋXYZBᴏᴛᴢ ʀᴇғᴇʀᴇɴᴄᴇ Cᴏʟɴᴇ ғᴇᴀᴛᴜʀᴇ Tᴏ TʜᴇBʟᴀᴄᴋXYZ-Fɪʟᴇ-Sᴛᴏʀᴇ-Bᴏᴛ
+- Cʀᴇᴅɪᴛ Gᴏ ᴛᴏ ᴛʜᴇ ꜰᴀx⁸⁸⁸ ʀᴇғᴇʀᴇɴᴄᴇ Cʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ Tᴏ ꜰᴀx-Fɪʟᴇ-Sᴛᴏʀᴇ-Bᴏᴛ
 
 Cᴏᴍᴍᴀɴᴅ : /clone</b>"""
 
@@ -101,9 +101,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Itz_rohan_24>❤️ TheBlackXYZ Owner 😎</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/laser_of_telegram>❤️ Owner 😎</a></b>
   
- <b>✯ Join here : <a href=https://t.me/TheBlackXYZ>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/cinema_companu>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -717,13 +717,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Itz_rohan_24'>Itz_rohan_24</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/faxfiles'>ꜰᴀx888</a>
 
--Dev 2 <a href='https://t.me/TheBlackXYZBotz'>TheBlackXYZBotz</a>
+-Dev 2 <a href='https://t.me/laser_of_telegram'>Thefax</a>
 
--Dev 3 <a href='https://t.me/TheBlackXYZBotz>TheBlackXYZBotz</a>
+-Dev 3 <a href='https://t.me/fr_linkz>frBotz</a>
 
-- Dev 4 <a href='https://t.me/TheBlackXYZ'>TheBlackXYZ</a>
+- Dev 4 <a href='https://t.me/laser_of_telegram'>OWNER</a>
 """
 
 
@@ -737,3 +737,4 @@ special Thanks To ❤️ Developers -
 
 
     
+
